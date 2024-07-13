@@ -1,6 +1,6 @@
 import { hcl } from "../assets/images";
 import {
-    contact,
+    Instagram,
     css,
     express,
     git,
@@ -119,9 +119,9 @@ export const skills = [
 
 export const socialLinks = [
     {
-        name: 'Contact',
-        iconUrl: contact,
-        link: '/contact',
+        name: 'Instagram',
+        iconUrl: Instagram,
+        link: 'https://www.instagram.com/amansaroha98/',
     },
     {
         name: 'GitHub',

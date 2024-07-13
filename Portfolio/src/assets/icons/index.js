@@ -18,8 +18,8 @@ import linkedin from './linkedin.svg'
 import twitter from './twitter.svg'
 import threads from './threads.svg'
 import arrow from './arrow.svg'
-import contact from './contact.svg'
 import soundon from './soundon.png'
+import Instagram from './instagram.svg'
 import soundoff from './soundoff.png'
 
 export {
@@ -35,6 +35,7 @@ export {
     nodejs,
     react,
     redux,
+    Instagram,
     tailwindcss,
     linkedin,
     twitter,
@@ -43,7 +44,6 @@ export {
     java,
     threads,
     arrow,
-    contact,
     soundon,
     soundoff
 }
